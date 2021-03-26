@@ -1,0 +1,17 @@
+{
+  "name": "texture-tools",
+  "version": "1.0.0",
+  "description": "Command-line tools for texture manipulation",
+  "main": "lib/texture.js",
+  "scripts": {
+  },
+  "bin": {
+    "texture": "./lib/texture.js"
+  },
+  "author": "Matteo Baggio",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "gm": "^1.23.1"
+  }
+}
