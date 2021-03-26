@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Command-line tools for texture manipulation",
   "main": "lib/texture.js",
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "texture": "./lib/texture.js"
   },
